@@ -1,0 +1,13 @@
+.reg-btn {
+    display: flex;
+
+    justify-content: center;
+}
+
+.reg-btn input {
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(to right, hotpink, magenta);
+    margin: 20px;
+    padding: 10px;
+}

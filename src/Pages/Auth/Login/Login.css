@@ -1,0 +1,27 @@
+.g-img {
+    width: 40px;
+}
+
+.google-box {
+    display: flex;
+    border: 2px solid lightgray;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 25px;
+    align-items: center;
+}
+
+.login-box {
+    box-shadow: 10px 10px 10px 10px rgba(128, 128, 128, 0.299);
+    height: 500px;
+    border-radius: 30px;
+    padding: 50px;
+}
+
+.link {
+    color: blue;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
